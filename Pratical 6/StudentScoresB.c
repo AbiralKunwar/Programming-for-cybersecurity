@@ -1,5 +1,10 @@
-#include <stdio.h>
+/* StudentScoresB.c
+   Practical 6, Part 1 (b)
+   Basic array operations - calculating average score
+   @author Abiral */
 
+
+#include <stdio.h>
 #define NUM_STUDENTS 5   // constant for number of students
 
 int main() {
